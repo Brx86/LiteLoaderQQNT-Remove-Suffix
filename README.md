@@ -1,4 +1,5 @@
-# Plugin-Template
+# LiteLoaderQQNT-Remove-Suffix
 
-LiteLoaderQQNT的插件模板  
+LiteLoaderQQNT的移除小尾巴插件
+
 LiteLoaderQQNT本体：[LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT)
